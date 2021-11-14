@@ -15,7 +15,7 @@ All of the products will have a price, but other information will vary by produc
 
 The program I have designed will load all the products from the text file. Then the user can interact with the system.
  
-1. Program presents the User with a recurring console-based menu to interact with the data set. Application consists of some ‘dummy’ data of products pre-coded into the application in the 'Items.txt' file. Below I have demonstrated how to run the application.
+1. Program presents the User with a recurring console-based menu to interact with the data set. Application consists of some ‘dummy’ data (in the 'Items.txt' file) of products pre-coded into the application. Below I have demonstrated how to run the application.
 
 - Below is how to setup the application and run it.
 
@@ -36,3 +36,5 @@ The program I have designed will load all the products from the text file. Then 
 - &emsp; Below is a list of items currently sold to a customer, which will be added to the 'sales report'.
   
   &emsp;&emsp; <img src="README_Images/SellItem.png" heigh=600 width=600>
+
+- The other options work in a similar way with error handling for the user's input.
