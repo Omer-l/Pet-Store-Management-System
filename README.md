@@ -1,4 +1,11 @@
 # Pet-Store-Management-System
+
+
+- Developed a pet store management console using C++ that manages products at a pet store.
+- Created UML diagrams showing each feature of the system before constructing the application.
+
+<u><b>Utilised:</b></u> C++, Catch2, UML, OOP, GIT
+
 **Software Engineering Coursework, Second Year of Computer Science**
 
   _Refer to 'Project Report.pptx' in the repository for UML diagrams and more information such as testing and analysis of this project_
